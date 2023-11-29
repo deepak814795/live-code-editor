@@ -1,3 +1,21 @@
+# About Project  - [See Live Demo](https://64749890cc503575546b2116--funny-tulumba-14e996.netlify.app/)
+This is an web code editor and compiler supporting HTML, CSS and Javascript.
+The application provides a live preview of the output, allowing users to see how their code renders in a browser in real-time.The code editor is typically divided into multiple panes for HTML, CSS, and JavaScript, making it easy to organize and manage code for each language.
+# Purpose
+Live code editors provide a dynamic and interactive environment for developers to write, share, and test code in real-time. They offer several benefits that can help solve real-world problems for developers and teams:
+<h3>Rapid Prototyping</h3> Live code editors allow developers to quickly prototype and experiment with code ideas. It's an excellent tool for trying out different techniques, libraries, or frameworks without the need to set up a local development environment.
+<h3>Collaboration</h3> Developers can easily share their code snippets, projects, or prototypes with others by sharing the editor's URL. This is particularly useful for collaboration, code reviews, and getting feedback from team members or the community.
+<h3>Cross-browser Testing</h3> Developers can test their code across different browsers and devices using live code editors. This helps ensure that web applications work consistently across various environments.
+
+# Tech Stack Used
+- [React](https://react.dev/)
+- [Javascript](https://www.javascript.com/)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+
+# Screenshots
+![Screenshot (841)](https://github.com/deepak814795/live-code-editor/assets/91387970/7e1d7375-525d-43d1-a667-bf72739baa1f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
